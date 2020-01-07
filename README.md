@@ -1,6 +1,8 @@
 # FDF 1337
 ![screenshot](exmpl/Screen%20Shot%202020-01-06%20at%2011.33.51%20AM.png?raw=true)
 
+This project consists in creating graphically the schematic representation of a terrain in relief
+
 ## Compiling and running
 Run `make`. An executable will compile. Currently only tested on OS X.
 
